@@ -48,3 +48,5 @@ C:\Users\omer.ingec\source\repos\Microservices\Services\Catalog\FreeCourse.Servi
 C:\Users\omer.ingec\source\repos\Microservices\Services\Catalog\FreeCourse.Services.Catalog\bin\Debug\net5.0\runtimes\linux\native\libmongocrypt.so
 C:\Users\omer.ingec\source\repos\Microservices\Services\Catalog\FreeCourse.Services.Catalog\bin\Debug\net5.0\runtimes\osx\native\libmongocrypt.dylib
 C:\Users\omer.ingec\source\repos\Microservices\Services\Catalog\FreeCourse.Services.Catalog\bin\Debug\net5.0\runtimes\win\native\mongocrypt.dll
+C:\Users\omer.ingec\source\repos\Microservices\Services\Catalog\FreeCourse.Services.Catalog\bin\Debug\net5.0\FreeCourse.Shared.dll
+C:\Users\omer.ingec\source\repos\Microservices\Services\Catalog\FreeCourse.Services.Catalog\bin\Debug\net5.0\FreeCourse.Shared.pdb
